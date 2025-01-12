@@ -57,7 +57,7 @@ Here are the languages and tools I use frequently:
 
 ### 🤝 Connect with Me:
 - **LinkedIn**: [Mohammad Shafay Joyo](https://www.linkedin.com/in/joyoshafay/)
-- **GitHub**: [@shafayjoyo](https://github.com/joyo11))
+- **GitHub**: [@shafayjoyo](https://github.com/joyo11)
 
 ---
 
